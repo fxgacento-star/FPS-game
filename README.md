@@ -67,4 +67,4 @@ This is a personal project. Feel free to experiment and add features!
 
 ## License
 
-MIT License - Feel free to use and modify as needed.
+MIT License 
